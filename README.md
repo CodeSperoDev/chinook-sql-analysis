@@ -91,7 +91,7 @@ This project showcases SQL proficiency through six analysis queries using joins,
 ---
 ## Author
 **Stephen Schier**  
-[LinkedIn](your-linkedin-url) • [GitHub](your-github-url)
+[LinkedIn](https://www.linkedin.com/in/stephen-schier/) • [GitHub](https://github.com/CodeSperoDev) 
 
 ---
 ## Acknowledgments
